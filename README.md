@@ -30,11 +30,13 @@ learning-trocas99/
 
 ```bash
 git clone git@github.com:your-username/learning-trocas99.git
+```
 
 2. Navigate to a language folder:
 
 ```bash
 cd learning-trocas99/tutorials
+```
 
 3. Run the code using the appropriate language interpreter/compiler.
 
