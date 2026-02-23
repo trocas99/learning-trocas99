@@ -60,5 +60,5 @@ Explore new frameworks, tools, and best practices.
 
 ## 🛠️ Languages & Technologies
 
-HTML & CSS
-Others as I explore
+- HTML & CSS
+- Others as I explore
