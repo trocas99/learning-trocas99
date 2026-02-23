@@ -18,9 +18,11 @@ This repository is where I track my coding journey, small projects, exercises, a
 
 The repo is organized by language and project type:
 
+```
 learning-trocas99/
-├── tutorials/ # Notes or code snippets or small projects from online courses
-│ └── css_html/ # HTML and CSS exercises to modernize and practice responsive design
+├── tutorials/          # Notes or code snippets or small projects from online courses
+│   └── css_html/       # HTML and CSS exercises to modernize and practice responsive design
+```
 
 ---
 
